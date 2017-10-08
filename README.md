@@ -8,4 +8,4 @@ the file.
 ## Note
 
 This will not work right away. If this script is being copied into a PowerShell session, you will need to open up a new
-session and execute the commands.
+session and execute the aliass.
